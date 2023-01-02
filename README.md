@@ -1,2 +1,2 @@
 # Sample-Repository
-This is my repositoryp
+This is my repository
